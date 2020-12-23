@@ -1,4 +1,4 @@
-# Hello there 🙏
+# Hello there 👋
 
 I am [Manas Uniyal](https://www.linkedin.com/in/manasuniyal/) and I love working on new and exciting technologies emerging nowadays. 
 
